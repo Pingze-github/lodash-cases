@@ -7,7 +7,7 @@
 ### #1 [{id:xxx}] 转 {xxx:{}}
 > 常用于转换数据库取出的数据。
 
-```
+``` javascript
 let a1 = [
   {id:1, ext:'ext1'},
   {id:2, ext:'ext2'}
